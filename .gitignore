@@ -2,6 +2,7 @@
 
 # production
 /build
+**/target/
 
 
 ### IntelliJ IDEA ###
