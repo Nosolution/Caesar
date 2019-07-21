@@ -10,7 +10,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>STP-Sender</artifactId>
+    <packaging>jar</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.nosolution.self</groupId>
+            <artifactId>STP-DataSegment</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
